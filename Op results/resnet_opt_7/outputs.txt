@@ -1,0 +1,3 @@
+{'n_capas_densas': 1, 'units_dense_0': 64, 'dropout_0': 0.7000000000000001, 'learning_rate': 0.0001, 'units_dense_1': 256, 'dropout_1': 0.0, 'units_dense_2': 256, 'dropout_2': 0.8}
+Sujeto 7: Test F1 = 0.892, Loss = 0.337
+Calculado con Classification_report: F1-score = 0.892
