@@ -95,4 +95,3 @@ Recommended for academic/research use: **MIT** or **Apache 2.0**.
 This repository is part of the supplementary materials for the manuscript:  
 
 **"Automatic Recognition of Dynamic Signs of Mexican Sign Language using Deep Learning"**  
-currently under preparation for submission to *IEEE Latin America Transactions*.
